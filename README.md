@@ -17,7 +17,7 @@
   <a href="mailto:pgvishwas21@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/vishwas-p-g">
+  <a href="https://linkedin.com/in/vishwas-p-g-36749925a">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://vishwaspg.vercel.app">
