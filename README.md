@@ -29,7 +29,7 @@
 
 ### 🚀 About
 - Computer Science & Engineering student  
-- Interested in **problem solving and data structures**  
+- Engineering robust solutions with a focus on efficiency.  
 - Passionate about **modern full-stack web development and UI/UX**  
 - Enjoys building projects and continuously improving skills  
 
