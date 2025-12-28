@@ -2,9 +2,9 @@
   Hi, Vishwas P G here,
 </h1>
 
-<p align="center">
+<!-- <p align="center">
   <b>Problem solver with a coding twist</b>
-</p>
+</p> -->
 
 <p align="center">
   Building clean, scalable, and meaningful software.<br/>
@@ -21,15 +21,10 @@
   <a href="https://vishwaspg.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
+  <a href="https://instagram.com/vishwaspg_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
-
----
-
-### 🚀 About
-- Computer Science & Engineering student  
-- Engineering robust solutions with a focus on efficiency.  
-- Passionate about **modern full-stack web development and UI/UX**  
-- Enjoys building projects and continuously improving skills  
 
 ---
 
