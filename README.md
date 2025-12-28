@@ -1,7 +1,5 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=10000000&color=007BFF&center=true&vCenter=true&width=435&lines=Hi,+Vishwas+P+G+here" alt="Typing SVG" />
-  </a>
+  Hi, Vishwas P G here,
 </h1>
 
 <p align="center">
