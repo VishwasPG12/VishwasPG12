@@ -1,5 +1,11 @@
-<h1 align="center">
+<!-- <h1 align="center">
   Hi, Vishwas P G here,
+</h1> -->
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=10000000&color=007BFF&center=true&vCenter=true&width=435&lines=Hi,+Vishwas+P+G+here" alt="Typing SVG" />
+  </a>
 </h1>
 
 <!-- <p align="center">
@@ -51,6 +57,12 @@
 </p>
 
 ---
+
+<!-- <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VishwasPG12&label=Profile%20Views&color=0e76a8&style=flat-square" alt="VishwasPG12" />
+</p> -->
+
+<img src="https://komarev.com/ghpvc/?username=VishwasPG12&label=&color=00000000" width="1" height="1" />
 
 <p align="center">
   <i>Minimal code. Maximum impact.</i>
